@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Mandy Lu's Porfolio
-description: Welcome to my creative portfolio!
+description: Hello! I’m Mandy, a recent BBA graduate concentrated in Marketing, Management Information Systems, and Business Analytics from Simon Fraser University.
