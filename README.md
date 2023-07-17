@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-title: Mandy Lu's Portfolio
-description: Welcome to my creative portfolio!
+Hello! I'm Mandy, a recent BBA graduate concentrated in Marketing, Management Information Systems, and Business Analytics from Simon Fraser University.
